@@ -1,6 +1,6 @@
 # Generador Formas
 
-Lee un archivo Excel con columnas de latitud, longitud, distancia y forma para generar un archivo GeoJSON con las cordenadas de la forma especificada (circulo, triangulo, pentágono, octágono) son las categorías que definen el numero de nodos con los  cuales se construye el archivo de salida resultante.
+Lee un archivo Excel con columnas de latitud, longitud, distancia y forma para generar un archivo GeoJSON con las coordenadas de la forma especificada (circulo, triangulo, pentágono, octágono) son las categorías que definen el numero de nodos con los  cuales se construye el archivo de salida resultante.
 
 La distancia se debe proporcionar en metros y las coordenadas en grados decimales
 
